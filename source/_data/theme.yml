@@ -43,8 +43,7 @@ e_social:
   enable: true
 e_social_links:
   Google Scholar: https://scholar.google.com/citations?user=-aqvINwAAAAJ&hl=en || fas fa-graduation-cap
-  ORCID: / || fab fa-orcid
-
+  
 # CV download link
 cv_dl:
   enable: true
