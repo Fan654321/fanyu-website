@@ -18,7 +18,7 @@ Email: fyu@mail.missouri.edu
 
 # Professional Skills
 **Quantitative Methods**
-Questionnaire Development and Analysis (e.g., CFA & EFA), T-test, ANOVA, Linear Regression Model, Structural Equation Modelling, Hierarchical Linear Modeling.
+Questionnaire Development and Analysis (e.g., CFA, EFA, IRT), T-test, ANOVA, Linear Regression Model, Structural Equation Modelling, Hierarchical Linear Modeling.
 
 **Qualitative Methods**
 Interview, Observation, Thematic Analysis
