@@ -5,13 +5,14 @@ tags:
 academia: true
 ---
 
-Hi I am Fan Yu. 
-I am originally from China. Now, I live in Columbia, MO, with my dog Croissant.
-I am a doctoral student in the **School of Information Science and Learning Technologies** at the University of Missouri-Columbia. I prefer to complete the program by 2023. 
-I am interested in research related to User Experience, Learning Technologies, and STEM Education.
+Hi,
+My name is Fan Yu. <br>
+I am from China. <br>
+Now, I am living in Columbia, Missouri, and doing my PhD in the **School of Information Science and Learning Technologies** at the **University of Missouri-Columbia**. <br>
+I prefer to complete the program by **2023**. <br>
+My research focus includes:User Experience, Learning Technologies, and STEM Education. <br>
 
 Email: fyu@mail.missouri.edu
-
 
 ***
 
